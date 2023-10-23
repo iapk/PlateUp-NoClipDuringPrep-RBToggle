@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <ProjectName>NoClip</ProjectName>
+    <ProjectName>NoClipPrepToggle</ProjectName>
   </PropertyGroup>
   <Import Project="$(SolutionDir)\plateup.targets" />
 </Project>
